@@ -1,0 +1,6 @@
+booking_id,destination,travel_date,traveler_name,duration,accommodation_type
+BK1234,"Paris,France",08-10-2024,Yadnik,7 days,Hotel
+BK5678,"Rome,Italy",09-01-2024,Vaidehi,5 days,Apartment
+BK9012,"New York,USA",10/25/2024,Yash, 3 days,Hostel
+BK2345,"Tokyo,Japan",11/15/2024,Aditi,10 days,Apartment
+BK5678,"London,England",12/20/2024,Aayush,4 days,Hotel
